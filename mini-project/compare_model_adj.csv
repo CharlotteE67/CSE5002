@@ -1,2 +1,2 @@
-,Model,Training Accuracy %,Testing Accuracy %
-0,GCN,0.8734995383194829,0.8597785977859779
+,Model,Training Accuracy %,Testing Accuracy %,Accuracy Score,F1_Score_Macro,F1_Score_Weighted
+0,GCN,0.8739612188365651,0.8671586715867159,0.8671586715867159,0.8520052341480913,0.8674829110253465

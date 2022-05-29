@@ -1,0 +1,4 @@
+,Model,Training Accuracy %,Testing Accuracy %
+0,Neural Network,0.9990766389658357,0.6143911439114391
+1,Decision Tree,1.0,0.6383763837638377
+2,KNN,1.0,0.45387453874538747
